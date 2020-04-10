@@ -1,0 +1,11 @@
+C:\Users\TylerN\Coding\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.deps.json
+C:\Users\TylerN\Coding\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.runtimeconfig.json
+C:\Users\TylerN\Coding\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.runtimeconfig.dev.json
+C:\Users\TylerN\Coding\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.dll
+C:\Users\TylerN\Coding\IronNinja\bin\Debug\netcoreapp2.2\IronNinja.pdb
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.csprojAssemblyReference.cache
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.csproj.CoreCompileInputs.cache
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.AssemblyInfoInputs.cache
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.AssemblyInfo.cs
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.dll
+C:\Users\TylerN\Coding\IronNinja\obj\Debug\netcoreapp2.2\IronNinja.pdb
